@@ -21,6 +21,6 @@ Hints:
 
 ## 📊 Results
 Result can be found in [h8dsft_SQL_Basic.sql] in this repository, with resulting output bellow
-[![alt text](http://url/to/img.png)](https://imgur.com/a/dZfzUcd)
+![Screenshot 2023-05-31 154307](https://github.com/ediashta/NGC-Hacktiv8/assets/62034224/286e09bf-b637-4bfa-8910-dd948b788509)
 
 
