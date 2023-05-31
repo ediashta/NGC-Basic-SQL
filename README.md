@@ -20,6 +20,7 @@ Hints:
 - Hitung banyak kemunculan entry data untuk masing-masing periode (1 Query untuk 1 periode).
 
 ## 📊 Results
-Result can be found in [h8dsft_SQL_Basic.sql] in this repository, explained bellow
+Result can be found in [h8dsft_SQL_Basic.sql] in this repository, with resulting output bellow
+[![alt text](http://url/to/img.png)](https://imgur.com/a/dZfzUcd)
 
 
